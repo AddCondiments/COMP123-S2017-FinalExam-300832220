@@ -16,5 +16,10 @@ namespace COMP123_S2017_FinalExam_StudentID
         {
             InitializeComponent();
         }
+
+        private void GameTimer_Tick(object sender, EventArgs e)
+        {
+
+        }
     }
 }
