@@ -397,5 +397,10 @@ namespace COMP123_S2017_FinalExam_StudentID
         {
             Application.Exit();
         }
+
+        private void TimeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
